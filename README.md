@@ -1,1 +1,1 @@
-# docker-gulp-compilator
+# Gulp compilator
